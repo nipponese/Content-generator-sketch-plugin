@@ -1,0 +1,6 @@
+#import '../js/utility.js'
+#import '../js/loadNames.js'
+#import '../data/names/names.js'
+
+imvunames = data[24][4];
+loadText(imvunames);
