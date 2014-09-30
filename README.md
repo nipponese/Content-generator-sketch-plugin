@@ -8,4 +8,6 @@ This fork adds two packs of content, in addition to the original stuff:
 * IMVU profile usernames
 * Cat pics
 
+![Demo](https://raw.githubusercontent.com/nipponese/Content-generator-sketch-plugin/master/tutorial/imvu_stuff.gif)
+
 That is all!
